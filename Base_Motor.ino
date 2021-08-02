@@ -17,7 +17,7 @@ void setup() {
   pinMode(in3, OUTPUT);
   pinMode(in4, OUTPUT);
   
-  // set Motor (A) and (B) Off,initial bosition
+  // set Motor (A) and (B) Off,initial position
   digitalWrite(in1, LOW);
   digitalWrite(in2, LOW);
   digitalWrite(in3, LOW);
